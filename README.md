@@ -66,12 +66,12 @@ Check https://github.com/xmrig/xmrig-proxy/blob/master/doc/STRATUM_EXT.md#14-alg
   "argon2/chukwa": "./xmrig --config=config.json",
   "argon2/wrkz": "./xmrig --config=config.json",
   "ghostrider": "./xmrig --config=config.json",
-  "ethash": "./gminer/miner --server localhost:3333 --user 87MKQonkAUsQ9MNGKB3L51PE884cTeJbgcu6zWZPZt13b632huSGu9xPZwQALhLnAadEurYA8npRPZTJUWed95ZAT17brdt --pass gpu_miner --algo ethash --proto stratum",
-  "kawpow": "./gminer/miner --server localhost:3333 --user 87MKQonkAUsQ9MNGKB3L51PE884cTeJbgcu6zWZPZt13b632huSGu9xPZwQALhLnAadEurYA8npRPZTJUWed95ZAT17brdt --pass gpu_miner --algo kawpow",
-  "c29s": "./gminer/miner --server localhost:3333 --user 87MKQonkAUsQ9MNGKB3L51PE884cTeJbgcu6zWZPZt13b632huSGu9xPZwQALhLnAadEurYA8npRPZTJUWed95ZAT17brdt --pass gpu_miner --algo cuckaroo29s",
-  "c29b": "./gminer/miner --server localhost:3333 --user 87MKQonkAUsQ9MNGKB3L51PE884cTeJbgcu6zWZPZt13b632huSGu9xPZwQALhLnAadEurYA8npRPZTJUWed95ZAT17brdt --pass gpu_miner --algo cuckaroo29b",
-  "c29v": "./gminer39/miner --server localhost:3333 --user 87MKQonkAUsQ9MNGKB3L51PE884cTeJbgcu6zWZPZt13b632huSGu9xPZwQALhLnAadEurYA8npRPZTJUWed95ZAT17brdt --pass gpu_miner --algo cuckarood29",
-  "autolykos2": "./trex/t-rex -a autolykos2 -o stratum+tcp://localhost:3333 -u 87MKQonkAUsQ9MNGKB3L51PE884cTeJbgcu6zWZPZt13b632huSGu9xPZwQALhLnAadEurYA8npRPZTJUWed95ZAT17brdt -p gpu_miner"
+  "ethash": "./gminer/miner --server localhost:3333 --user 483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA --pass gpu_miner --algo ethash --proto stratum",
+  "kawpow": "./gminer/miner --server localhost:3333 --user 483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA --pass gpu_miner --algo kawpow",
+  "c29s": "./gminer/miner --server localhost:3333 --user 483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA --pass gpu_miner --algo cuckaroo29s",
+  "c29b": "./gminer/miner --server localhost:3333 --user 483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA --pass gpu_miner --algo cuckaroo29b",
+  "c29v": "./gminer39/miner --server localhost:3333 --user 483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA --pass gpu_miner --algo cuckarood29",
+  "autolykos2": "./trex/t-rex -a autolykos2 -o stratum+tcp://localhost:3333 -u 483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA -p gpu_miner"
  },
  "algo_perf": {
   "rx/0": 243.6,
